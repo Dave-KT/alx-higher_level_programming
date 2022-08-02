@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print("C is fun!")
+Best #!/usr/bin/python3
+print("Best School!")
